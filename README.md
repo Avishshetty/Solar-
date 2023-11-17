@@ -26,3 +26,17 @@ FEATURES:-
 • The primary feature of an LDR is its ability to change resistance based on the intensity of incident light. As the light intensity increases, the resistance decreases, and vice versa.
 
 • Relays have different contact configurations, including normally open (NO), normally closed (NC), and changeover (CO) or double-throw contacts. These configurations determine how the relay behaves in its normal state and when activated.
+
+
+MIND MAP:![WhatsApp Image 2023-11-17 at 11 19 57 AM](https://github.com/Avishshetty/Solar-/assets/149647207/577a621e-a2df-400a-a2b7-fceffc5be932)
+
+
+
+
+FLOW CHART:
+
+![WhatsApp Image 2023-11-17 at 11 00 43 AM (1)](https://github.com/Avishshetty/Solar-/assets/149647207/caff9d2b-d0fc-412e-a7bd-e695621d1e9b)
+
+
+
+
